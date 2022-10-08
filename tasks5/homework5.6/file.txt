@@ -1,0 +1,3 @@
+Informatic: 100(lect) 50(sem) 20(lab).
+Phisycs: 30(lect) — 10(lab)
+Train: — 30(sem) —

@@ -1,0 +1,7 @@
+Nikolaev 70000
+Nizovoi 60000
+Larin 60000
+Karasev 10000
+Grabchuk 115000
+Titov 12000
+Martynov 18000
